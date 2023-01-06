@@ -1,0 +1,123 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Akshar:wght@300;400;500;600;700&display=swap');
+
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Akshar', sans-serif;
+    box-sizing: border-box;
+    
+
+}
+body{
+    background: linear-gradient(#83BD75,#ffffff45);
+    background-repeat: no-repeat;
+   
+   
+}
+.container{
+    width: 100%;
+    height: 100vh;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 40px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+span{
+    color: #4E944F;
+    text-decoration: solid;
+}
+nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+}
+nav ul li a:hover{
+    color: #4E944F;
+    transition: 0.3s;
+    text-shadow: 0px 0px 15px #121010;
+}
+
+a{
+    text-decoration: none;
+}
+a:visited{
+    color: black;
+}
+.s1{
+    color: black;
+}
+h1:hover{
+    transition: transform 120ms;
+    transform: translateY(-6px);
+}
+
+
+.contenu-barre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 50vh;
+    padding: 100px;
+   
+    
+}
+
+.barre-cherche{
+    text-align: center;
+    
+    
+}
+.title{
+    
+    font-size: 4rem;
+    color: #4E944F;
+    margin-bottom: 10px;
+    text-shadow: 4px 3px 40px #0000009d;
+}
+.form{
+    width: 100%;
+    margin: 20px auto;
+    background-color: #e2f2d7;
+    border-radius: 40px;
+    box-shadow: 10px 5px 30px rgba(34, 34, 34, 0.579);
+    
+
+}
+.form input{
+    width: 88%;
+    background-color: transparent;
+    padding: 20px;
+   font-size: 1.5rem;
+    border: none;
+    display: inline-block;
+    outline: none;
+}
+
+.form .btn{
+    width: 10%;
+    font-size: 1.8rem;
+    color: rgb(49, 49, 49);
+    border: none;
+}
+i:hover{
+    color: #4E944F;
+    transition: 0.2s;
+    text-shadow: 10px 10px 20px rgba(43, 43, 43, 0.564);
+
+}
+p{
+    font-size: 1.3rem;
+}
+
+.card:hover{
+    box-shadow: 10px 10px 20px rgba(43, 43, 43, 0.564);
+
+}
+
+ */
